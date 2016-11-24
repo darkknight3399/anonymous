@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project path="device/asus/msm8916-common" name="AKabhishek/android_device_asus_msm8916-common" remote="github" revision="cm-14.0" />
-  <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-14.0" />
-  <project path="kernel/asus/msm8916" name="Cyanogenmod/android_kernel_asus_msm8916" remote="github" revision="cm-14.0" />
-  <project path="device/asus/Z00L" name="AKabhishek/android_device_asus_Z00L" remote="github" revision="aicp-12" />
-  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-14.0" />
-</manifest>

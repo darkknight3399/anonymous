@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/yu/tomato" name="DarkKnight6499/android_device_yu_tomato" remote="github" revision="aoscp" />
+ <project path="device/cyanogen/msm8916-common" name="DarkKnight6499/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
+  <project path="vendor/yu" name="DarkKnight6499/proprietary_vendor_yu" remote="github" revision="cm-14.1" />
+  <project path="kernel/cyanogen/msm8916" name="DarkKnight6499/android_kernel_cyanogen_msm8916" remote="github" revision="cm-14.1" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-14.1" />
+</manifest>
