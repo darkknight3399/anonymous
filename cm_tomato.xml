@@ -3,5 +3,5 @@
   <project path="device/yu/tomato" name="DarkKnight6499/device_yu_tomato" remote="github" revision="cm-14.1" />
  <project path="device/cyanogen/msm8916-common" name="DarkKnight6499/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
   <project path="vendor/yu" name="DarkKnight6499/android_vendor_yu" remote="github" revision="nougat" />
-  <project path="kernel/cyanogen/msm8916" name="https://github.com/DarkKnight6499/android_kernel_cyanogen_msm8916" remote="github" revision="cm-14.1" />
+  <project path="kernel/cyanogen/msm8916" name="DarkKnight6499/android_kernel_cyanogen_msm8916" remote="github" revision="cm-14.1" />
 </manifest>
