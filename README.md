@@ -1,3 +1,3 @@
-# Local-Manifest
+# Local-Manifest for YU YUREKA
 
-Backups of my local manifests 
+git clone https://github.com/DarkKnight6499/local_manifests.git
