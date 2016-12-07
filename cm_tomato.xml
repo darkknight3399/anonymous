@@ -2,6 +2,6 @@
 <manifest>
   <project path="device/yu/tomato" name="AKabhishek/device_yu_tomato" remote="github" revision="cm-14.1" />
  <project path="device/cyanogen/msm8916-common" name="AKabhishek/device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
-  <project path="vendor/yu" name="TheMuppets/proprietary_vendor_yu" remote="github" revision="nougat" />
+  <project path="vendor/yu" name="TheMuppets/proprietary_vendor_yu" remote="github" revision="cm-14.1" />
   <project path="kernel/cyanogen/msm8916" name="CyanogenMod/android_kernel_cyanogen_msm8916" remote="github" revision="cm-14.1" />
 </manifest>
