@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
+<project path="device/xiaomi/mido" name="DarkKnight6499/android_device_xiaomi_mido" remote="github" revision="du" />
+<project path="kernel/xiaomi/msm8953" name="DarkKnight6499/android_kernel_xiaomi_msm8953" remote="github" revision="cm-14.1" />
+<project path="vendor/xiaomi" name="DarkKnight6499/proprietary_vendor_xiaomi" remote="github" revision="du" />
+<project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="github" revision="cm-14.1" />
+<project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="github" revision="cm-14.1" />
+</manifest>
